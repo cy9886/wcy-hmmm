@@ -13,7 +13,7 @@
         <!-- <h3 class="title">{{$t('login.title')}}</h3> -->
         <div class="logoInfo clearfix">
           <em class="logo"></em>
-          <span class="logoFontZ">黑马</span>
+          <span class="logoFontZ">黑马面</span>
           <span>用户登录</span>
         </div>
         <lang-select class="set-language"></lang-select>
